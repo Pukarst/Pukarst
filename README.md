@@ -27,17 +27,14 @@ I enjoy working with **Python and Django** for backend development and building 
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages
+Python • JavaScript • HTML • CSS
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,react" />
-</p>
+### Frameworks & Libraries
+Django • HTMX • Bootstrap • React Native
 
-### Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
-</p>
+### Tools
+Git • GitHub • VS Code • Postman • SQLite
 
 ### Currently Learning
 
