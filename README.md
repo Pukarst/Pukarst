@@ -36,7 +36,7 @@ I enjoy working with **Python and Django** for backend development and building 
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
 </p>
 
 ### Currently Learning
