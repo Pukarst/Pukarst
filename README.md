@@ -2,7 +2,7 @@
 
 ### Software Developer | Python • Django • HTMX • React Native
 
-I'm a Computer Engineering graduate and Software Development Trainee at **Nepal Can Code**, focused on building practical web and mobile applications.
+I'm a Computer Engineering graduate and Software Development Trainee at **Nepal Can Code**, focused on building practical and user-focused web and mobile applications.
 
 I enjoy working with **Python and Django** for backend development and building responsive interfaces with **HTMX, Bootstrap, and JavaScript**. I'm also exploring **React Native with Expo** for mobile application development.
 
@@ -36,7 +36,7 @@ Django • HTMX • Bootstrap • React Native
 ### Tools
 Git • GitHub • VS Code • Postman • SQLite
 
-### Currently Learning
+### Currently Exploring
 
 - React Native & Expo
 - REST API development & integration
@@ -89,11 +89,11 @@ A Python-based console application for managing books and users.
 
 ## 🎯 What I'm Working On
 
-- 🔨 Building real-world applications with Django
-- 📱 Developing mobile applications with React Native
-- 🔌 Working with APIs and backend integration
-- 🎨 Improving UI/UX for web and mobile applications
-- 📚 Strengthening my software development skills
+- 🔨 Building production-oriented web applications with Django
+- 📱 Exploring mobile development with React Native & Expo
+- 🔌 Building and integrating REST APIs
+- 🎨 Improving responsive UI/UX for web and mobile
+- 📚 Continuously improving my software development skills
 
 ---
 
@@ -115,7 +115,3 @@ A Python-based console application for managing books and users.
 </p>
 
 ---
-
-<p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
-</p>
