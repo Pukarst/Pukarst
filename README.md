@@ -56,6 +56,8 @@ A responsive developer portfolio showcasing my skills, projects, and experience.
 
 🔗 **[pukarbade.com.np](https://pukarbade.com.np)**
 
+**Tech:** `HTML` `CSS` `JavaScript` `GitHub Pages` `Cloudflare`
+
 ---
 
 ### 📝 Online Quiz Management System
@@ -76,7 +78,7 @@ A Django-based quiz management platform with role-based access for:
 - Performance reports
 - Separate dashboards
 
-**Tech:** `Django` `Python` `Bootstrap` `SQLite`
+**Tech:** `Python` `Django` `Bootstrap` `SQLite`
 
 ---
 
@@ -88,32 +90,13 @@ A Python-based console application for managing books and users.
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 What I'm Working On
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pukarst&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Pukarst&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pukarst&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pukarst/Pukarst/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pukarst&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
+- 🔨 Building real-world applications with Django
+- 📱 Developing mobile applications with React Native
+- 🔌 Working with APIs and backend integration
+- 🎨 Improving UI/UX for web and mobile applications
+- 📚 Strengthening my software development skills
 
 ---
 
@@ -135,10 +118,6 @@ A Python-based console application for managing books and users.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pukarst&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   <i>Building. Learning. Improving. 🚀</i>
