@@ -8,3 +8,13 @@ Computer Engineering graduate and Software Development Trainee at Nepal Can Code
 💼 LinkedIn: linkedin.com/in/pukar-bade
 📧 Email: bade5pukar@gmail.com
 📍 Kathmandu, Nepal
+
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Graduate.
+- 💼 Software Development Trainee at Nepal Can Code.
+- 🐍 Backend Developer with Python & Django.
+- ⚡ Building responsive web apps using HTMX and Bootstrap.
+- 📱 Learning mobile app development with React Native (Expo).
+- 🌱 Always learning and building real-world software projects.
