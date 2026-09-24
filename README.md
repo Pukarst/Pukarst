@@ -75,6 +75,9 @@ A Django-based quiz management platform with role-based access for:
 - Performance reports
 - Separate dashboards
 
+💻 **Repository:** https://github.com/Pukarst/quiz_django
+
+
 **Tech:** `Python` `Django` `Bootstrap` `SQLite`
 
 ---
