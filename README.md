@@ -19,25 +19,24 @@ I enjoy working with **Python and Django** for backend development and building 
 - 💼 Software Development Trainee at Nepal Can Code
 - 🐍 Backend development with Python & Django
 - ⚡ Web development with Django, HTMX & Bootstrap
-- 📱 Learning React Native & Expo
+- 📱 Exploring React Native & Expo
 - 🔌 Working with REST APIs and API integration
-- 🌱 Continuously learning and building real-world projects
+- 🌱 Building practical real-world applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • JavaScript • HTML • CSS
+`Python` `JavaScript` `HTML` `CSS`
 
 ### Frameworks & Libraries
-Django • HTMX • Bootstrap • React Native
+`Django` `HTMX` `Bootstrap` `React Native`
 
 ### Tools
-Git • GitHub • VS Code • Postman • SQLite
+`Git` `GitHub` `VS Code` `Postman` `SQLite`
 
 ### Currently Exploring
-
 - React Native & Expo
 - REST API development & integration
 - Mobile UI development
@@ -51,7 +50,8 @@ Git • GitHub • VS Code • Postman • SQLite
 
 A responsive developer portfolio showcasing my skills, projects, and experience.
 
-🔗 **[pukarbade.com.np](https://pukarbade.com.np)**
+🔗 **[Live Portfolio](https://pukarbade.com.np)**  
+💻 **[Repository](https://github.com/Pukarst/my-portfolio)**
 
 **Tech:** `HTML` `CSS` `JavaScript` `GitHub Pages` `Cloudflare`
 
@@ -75,9 +75,6 @@ A Django-based quiz management platform with role-based access for:
 - Performance reports
 - Separate dashboards
 
-💻 **Repository:** https://github.com/Pukarst/quiz_django
-
-
 **Tech:** `Python` `Django` `Bootstrap` `SQLite`
 
 ---
@@ -92,11 +89,11 @@ A Python-based console application for managing books and users.
 
 ## 🎯 What I'm Working On
 
-- 🔨 Building production-oriented web applications with Django
+- 🔨 Building real-world web applications with Django
 - 📱 Exploring mobile development with React Native & Expo
 - 🔌 Building and integrating REST APIs
 - 🎨 Improving responsive UI/UX for web and mobile
-- 📚 Continuously improving my software development skills
+- 📚 Strengthening my software development skills
 
 ---
 
@@ -116,5 +113,3 @@ A Python-based console application for managing books and users.
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
----
